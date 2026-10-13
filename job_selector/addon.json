@@ -1,0 +1,10 @@
+{
+    "title": "Job Selector (F4 Menu)",
+    "type": "gamemode",
+    "tags": ["roleplay", "build"],
+    "ignore": [
+        "*.psd",
+        "*.xcf",
+        "*.pyc"
+    ]
+}
